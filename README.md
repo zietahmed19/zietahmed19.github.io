@@ -60,15 +60,7 @@
 
 <br/>
 
-## Description
-Hey, , I am a 2nd year Master’s Student in Data Engineeeing and Web Technology at Farhat Abbas University.
-## Skills
-* I am a Designer and Developer Mobile Apps `Flutter frame work` & `MySQL` & `PHP`
-* I work as a video editor and creating visual effects with `Pr(Premiere Pro)` & `Ae(After Effects)`
-* I work as Graphic Designer Using `Ai(illustrator)` & `PS (PhotoShop)`
-## Links
-* [https://www.linkedin.com/in/ahmed-ziet-83812b221/]
-* [https://www.behance.net/darkstarshaco]
+
 ## Exp
 * `2020 – 2023`
  - Member of Setif Scientific Club `SESC` Role `DESIGNER` • `VIDEO EDITOR`
