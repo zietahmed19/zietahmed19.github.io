@@ -7,7 +7,7 @@
 </h1>
 <p align="center">
     
-  <img src="[https://github.com/aimenhaddad/aimenhaddad/blob/main/android.gif](https://github.com/zietahmed19/zietahmed19/blob/main/android.gif)" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
+  <img src="https://github.com/zietahmed19/zietahmed19/blob/main/android.gif" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
 </p>
 
 **I'm Ahmed Ziet** - I'm a  developer, currently,MSc student Data engineering and web technologies, and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter  .
@@ -28,13 +28,13 @@
 
 <div align="center"> 
  <div> 
-  <a href="[https://www.behance.net/aimenhaddad](https://www.behance.net/darkstarshaco)" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"</a>
+  <a href="https://www.behance.net/darkstarshaco" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"</a>
   <a href="https://www.instagram.com/ziet_ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-962FBF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/ahmed.ziet.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:ahmed.ziet@gmail.com>
     <img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://linkedin.com/in/aimenhaddad](https://www.linkedin.com/in/ahmed-ziet/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-ziet/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
