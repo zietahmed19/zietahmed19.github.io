@@ -28,7 +28,7 @@
 
 <div align="center"> 
  <div> 
-  <a href="https://www.behance.net/darkstarshaco" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"</a>
+  <a href="https://www.behance.net/darkstarshaco" target="_blank"><img src="https://img.shields.io/badge/Behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ziet_ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-962FBF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/ahmed.ziet.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
