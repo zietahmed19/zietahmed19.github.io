@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/ziet_ahmed/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-962FBF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.facebook.com/ahmed.ziet.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ahmed.ziet@gmail.com>
+  <a href = "mailto:ahmed.ziet@gmail.com target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ahmed-ziet/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
